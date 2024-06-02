@@ -10,8 +10,6 @@ This is an Angular application that provides a login page, and CRUD operations f
 - Route Protection using Auth Guards
 
 ## Prerequisites
-
-- Node.js and npm
 - Angular CLI
 
 ## Getting Started
@@ -19,5 +17,5 @@ This is an Angular application that provides a login page, and CRUD operations f
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/angular-party-management.git
-cd angular-party-management
+git clone https://github.com/anujpatil1100/GFTPL_company_task.git
+
